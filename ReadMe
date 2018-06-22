@@ -1,0 +1,15 @@
+This file gives details on how to execute the program for breadth first search, Ford Fulkerson Program and Image Segmentation solution
+
+The project is developed using Java platform 8
+
+************* Read me for BFS**********************
+
+NetworkFlow_Start.java -b input.txt 0 5
+
+************* Read me for Ford Fulkerson **********************
+
+NetworkFlow_Start.java -f input.txt
+
+************* Read me for Image segmentation Program **********************
+
+NetworkFlow_Start.java -i gray.pgm foreground.pgm background.pgm
